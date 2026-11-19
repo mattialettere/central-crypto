@@ -1,0 +1,5 @@
+Central end-to-end encryption code
+Copyright 2026 the Central developers (getcentral.net)
+
+This product uses Tink (https://github.com/tink-crypto/tink-java),
+licensed under the Apache License 2.0.
